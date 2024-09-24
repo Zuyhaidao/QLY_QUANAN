@@ -1,0 +1,105 @@
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe.config
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.pdb
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.AssemblyReference.cache
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Login.resources
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Properties.Resources.resources
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.GenerateResource.cache
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.CoreCompileInputs.cache
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.exe
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.pdb
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Admin.resources
+D:\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.ResetPass.resources
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.pdb
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Admin.resources
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Login.resources
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.ResetPass.resources
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.exe
+C:\Users\Admin\Documents\Zalo Received Files\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.pdb
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe.config
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.pdb
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.AssemblyReference.cache
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Admin.resources
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Login.resources
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Properties.Resources.resources
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.ResetPass.resources
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.GenerateResource.cache
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.CoreCompileInputs.cache
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.exe
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.pdb
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.MenuForm.resources
+D:\Jobs\Job 2024\Job Le Duc Trung (Zalo)\Đồ án 1 (winform)\code\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.InvoiceForm.resources
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe.config
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.pdb
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.AssemblyReference.cache
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Admin.resources
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.InvoiceForm.resources
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Login.resources
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.MenuForm.resources
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Properties.Resources.resources
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.GenerateResource.cache
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.CoreCompileInputs.cache
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.exe
+D:\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.pdb
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe.config
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.pdb
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Admin.resources
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.InvoiceForm.resources
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Login.resources
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.MenuForm.resources
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.ResetPass.resources
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.exe
+C:\Users\Admin\Desktop\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.pdb
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe.config
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.pdb
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Admin.resources
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.InvoiceForm.resources
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Login.resources
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.MenuForm.resources
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.ResetPass.resources
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.exe
+C:\Users\Acer\OneDrive\Desktop\QLY_QUANAN (1)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.pdb
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe.config
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.pdb
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.AssemblyReference.cache
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Admin.resources
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.InvoiceForm.resources
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Login.resources
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.MenuForm.resources
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Properties.Resources.resources
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.GenerateResource.cache
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.CoreCompileInputs.cache
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.exe
+D:\học tập\Đồ án 1\Đồ án 1 (winform)\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.pdb
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe.config
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.exe
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\bin\Debug\QLY_QUANAN.pdb
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.AssemblyReference.cache
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Admin.resources
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.InvoiceForm.resources
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Login.resources
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.MenuForm.resources
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.Properties.Resources.resources
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.GenerateResource.cache
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.csproj.CoreCompileInputs.cache
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.exe
+D:\học tập\Đồ án 1\Đồ án 1 Nhóm 2\QLY_QUANAN\QLY_QUANAN\obj\Debug\QLY_QUANAN.pdb
